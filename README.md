@@ -9,7 +9,7 @@ This repository contains implementations of various AI and NLP models for learni
 > **Note:** These implementations leverage pre-trained libraries and models, and while functional, the results may not always be highly accurate. This project is meant to explore these tools and demonstrate their usage.
 
 ## Recommended Environment:
-Google Colab or is recommended for running the notebooks for better resource management and ease of use.
+Google Colab is recommended for running the notebooks for better resource management and ease of use.
 
 ## Installation
 Clone the repository:
